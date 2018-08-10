@@ -1,6 +1,6 @@
 ## Getting Started
 To test this App in your machine, just follow the steps below:
-- Clone this repo in your local ```git clone https://github.com/ChippX/neighborhood-map-react```
+- Clone this repo in your local ```git clone https://github.com/Moontastic/neighborhood-map-react```
 - Now into your folder project in the terminal exec ```npm install``` to install all dependencies
 - After install all dependencies just execute ```npm start``` on the terminal.
 - The browser will automatically open the Neighborhood Map App. If it doesn't, please [click here](http://localhost:3000/)
